@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Violet Sky</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Violet Sky</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Mar 2025 13:57:58 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сайты с бесплатным хостингом и самонаполнением</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 06 Mar 2025 13:57:58 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;добро-пожаловать-на-мой-сайт-визитку&#34;&gt;Добро пожаловать на мой сайт-визитку!&lt;/h2&gt;&#xA;&lt;p&gt;Привет, я Violet Sky, программист, который помогает бизнесу и частным лицам создавать &lt;strong&gt;современные сайты&lt;/strong&gt; без лишних затрат. Моя специализация — это &lt;strong&gt;экономичные и автоматизированные решения&lt;/strong&gt;, которые работают без оплаты хостинга и наполняются контентом с помощью нейросетей.&lt;/p&gt;&#xA;&lt;h3 id=&#34;что-я-предлагаю&#34;&gt;Что я предлагаю?&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Сайты без затрат на хостинг&lt;/strong&gt;&lt;br&gt;&#xA;Я использую &lt;strong&gt;GitHub Pages&lt;/strong&gt; для размещения сайтов. Это значит, что ваш сайт будет работать бесплатно, надежно и с высокой скоростью. Никаких ежемесячных платежей за серверы!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
