@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://anaskozyr.github.io/Nova_Script/"
 languageCode = "en-us"
 title = "Violet Sky"
-theme = "ananke"
+theme = "minimal"
